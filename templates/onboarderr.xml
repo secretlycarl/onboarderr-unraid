@@ -9,7 +9,7 @@
   <Project>https://github.com/secretlycarl/onboarderr</Project>
   <Overview>
     <![CDATA[
-    Onboarderr is a customizable onboarding portal for your Plex and (optional) Audiobookshelf servers. 
+    Onboarderr is a customizable onboarding site for your Plex and (optional) Audiobookshelf servers. 
     It includes user instructions, server highlights, and an admin dashboard.
     ]]>
   </Overview>
@@ -17,3 +17,4 @@
   <WebUI>http://[IP]:[PORT:10000]/</WebUI>
   <Icon>https://raw.githubusercontent.com/secretlycarl/onboarderr/main/icon.png</Icon>
 </Container>
+
